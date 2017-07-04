@@ -1,4 +1,4 @@
-# CircleCI Base Image
+# CircleCI Primary Image
 
-The purpose of this image is to be the primary container for CircleCI
+The purpose of this image is to be a primary container for CircleCI
 docker-compose tests
